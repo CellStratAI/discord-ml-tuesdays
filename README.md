@@ -4,6 +4,8 @@ Every Tuesday, we host a live session on various topics of machine learning, dee
 
 Join the [CellStrat Discord](https://discord.gg/mWJzjyVfC9) Now for a lot of Interactive Events!!
 
+Sign Up on [CellStrat Hub](https://cellstrathub.com/), A Unified Ecosystem of Machine Learning Tools for Rapid Development, Deployment, and Launch. All the ML Tuesdays are done on CellStrat Hub Workspace, a hosted Jupyter Lab based development environment with persistent storage, realtime collaboration, dedicated VM and more.
+
 ## Sessions
 
 ### ML Tuesday 1
