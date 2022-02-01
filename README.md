@@ -52,4 +52,4 @@ Basic CNN based Image Classification
 
 - [Exercise Notebook](MLT-3/MLT3_ImageClassification.ipynb)
 - [Solution](MLT-3/MLT3_ImageClassification_Solution.ipynb)
-- [Solution Discussion's Video Recording](https://youtu.be/viLmM1BoJcYt=1360)
+- [Solution Discussion's Video Recording](https://youtu.be/viLmM1BoJcY?t=1360)
