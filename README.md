@@ -6,6 +6,12 @@ Join the [CellStrat Discord](https://discord.gg/mWJzjyVfC9) Now for a lot of Int
 
 Sign Up on [CellStrat Hub](https://cellstrathub.com/), A Unified Ecosystem of Machine Learning Tools for Rapid Development, Deployment, and Launch. All the ML Tuesdays are done on CellStrat Hub Workspace, a hosted Jupyter Lab based development environment with persistent storage, realtime collaboration, dedicated VM and more.
 
+## Table of Contents
+
+1. [ML Tuesday 1](#ml-tuesday-1)
+2. [ML Tuesday 2](#ml-tuesday-2)
+3. [ML Tuesday 3](#ml-tuesday-3)
+
 ## Sessions
 
 ### ML Tuesday 1
@@ -31,3 +37,19 @@ Introductory Exercise in PyTorch
 - [Exercise Notebook](MLT-2/MLT2_MNIST.ipynb)
 - [Solution](MLT-2/MLT2_MNIST_Solution.ipynb)
 - [Solution Discussion's Video Recording](https://youtu.be/DYMbFwjA3Fg?t=840)
+
+### ML Tuesday 3
+
+#### ML Track
+Predicting Medical Insurance Cost using Regression
+
+- [Exercise Notebook](MLT-3/MLT3_Medical-Insurance-Cost-Prediction.ipynb)
+- [Solution](MLT-3/MLT3_Medical-Insurance-Cost-Prediction_Solution.ipynb)
+- [Solution Discussion's Video Recording](https://youtu.be/viLmM1BoJcY?t=0)
+
+#### DL Track
+Basic CNN based Image Classification
+
+- [Exercise Notebook](MLT-3/MLT3_ImageClassification.ipynb)
+- [Solution](MLT-3/MLT3_ImageClassification_Solution.ipynb)
+- [Solution Discussion's Video Recording](https://youtu.be/viLmM1BoJcYt=1360)
