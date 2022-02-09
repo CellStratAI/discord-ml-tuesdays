@@ -59,11 +59,11 @@ Basic CNN based Image Classification
 #### ML Track
 Classification of Wine using Decision Tree
 
-- [Exercise Notebook](MLT-4/MLT4_Decision Trees.ipynb)
-- [Solution](MLT-4/MLT4_Decision Trees_Solution.ipynb)
+- [Exercise Notebook](MLT-4/MLT4_DecisionTrees.ipynb)
+- [Solution](MLT-4/MLT4_DecisionTrees_Solution.ipynb)
 
 #### DL Track
 Classify Cats and Dogs using Transfer Learning
 
-- [Exercise Notebook](MLT-4/MLT4_Dogs-Cats Classification.ipynb)
-- [Solution](MLT-4/MLT4_Dogs-Cats Classification_Solution.ipynb)
+- [Exercise Notebook](MLT-4/MLT4_Dogs-CatsClassification.ipynb)
+- [Solution](MLT-4/MLT4_Dogs-CatsClassification_Solution.ipynb)
